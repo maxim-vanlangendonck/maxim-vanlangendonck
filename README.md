@@ -5,4 +5,5 @@
 - 💸 Sponsor my projects: https://www.patreon.com/maximvanlangendonck
 ### Socials 🌐
 ### Github stats 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim-vanlangendonck&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-vanlangendonck&theme=great-gatsby&show_icons=true>" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/stats/?username=maxim-vanlangendonck&theme=great-gatsby&show_icons=true" />
