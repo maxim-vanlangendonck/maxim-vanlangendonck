@@ -4,6 +4,17 @@
 - 🌐 Check out my online portfolio! https://jovial-pare-828303.netlify.app/
 - 💸 Sponsor my projects: https://www.patreon.com/maximvanlangendonck
 ### Socials 🌐
+- Twitter [![Twitter][1.2]][1]
+- LinkedIn [![LinkedIn][2.2]][2]
 ### Github stats 📊
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-vanlangendonck&theme=great-gatsby&show_icons=true>" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=maxim-vanlangendonck&theme=great-gatsby&show_icons=true" />
+
+
+<!-- Icons -->
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+<!-- Links to social media accounts -->
+[1] https://www.twitter.com/zwaremeneer
+[2] https://www.linkedin.com/in/maximvanlangendonck/
