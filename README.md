@@ -7,7 +7,6 @@
 - Twitter [![Twitter][1.2]][1]
 - LinkedIn [![LinkedIn][2.2]][2]
 ### Github stats 📊
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-vanlangendonck&theme=great-gatsby>" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=maxim-vanlangendonck&theme=great-gatsby&show_icons=true" />
 
 
