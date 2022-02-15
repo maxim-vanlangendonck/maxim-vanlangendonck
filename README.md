@@ -1,7 +1,7 @@
 ### Hi, my name is Maxim Van Langendonck <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👨‍🎓 I'm currently a Applied Computer Sciences student at College University Ghent
 - ⚡ Fun fact about me: I like to game and play football
-- 🌐 Check out my online portfolio! https://jovial-pare-828303.netlify.app/
+- 🌐 Check out my online portfolio! https://www.maximvanlangendonck.be/
 - 💸 Sponsor my projects: https://www.patreon.com/maximvanlangendonck
 ### Socials 🌐
 - Twitter [![Twitter][1.2]][1]
