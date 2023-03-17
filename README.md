@@ -2,7 +2,7 @@
 - 👨‍🎓 I'm currently a Applied Computer Sciences student at College University Ghent
 - ⚡ Fun fact about me: I like to game and play football
 - 🌐 Check out my online portfolio! https://www.maximvanlangendonck.be/
-- 💸 Sponsor my projects: https://www.patreon.com/maximvanlangendonck
+
 ### Socials 🌐
 - LinkedIn [![LinkedIn][2.2]][2]
 ### Github stats 📊
