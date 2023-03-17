@@ -5,8 +5,8 @@
 
 ### Socials 🌐
 - LinkedIn [![LinkedIn][2.2]][2]
-### Github stats 📊
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=maxim-vanlangendonck&theme=great-gatsby&show_icons=true" />
+<!-- ### Github stats 📊
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=maxim-vanlangendonck&theme=great-gatsby&show_icons=true" /> -->
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
