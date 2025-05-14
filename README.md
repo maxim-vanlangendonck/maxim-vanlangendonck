@@ -1,7 +1,7 @@
 ### Hi, my name is Maxim Van Langendonck <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 👨‍🎓 I'm currently a Applied Computer Sciences student at College University Ghent
+- I currently work as a Network Engineer @ e-BO Enterprises
+- 👨‍🎓 I have an Professional Bachelor in Applied Computer Sciences.
 - ⚡ Fun fact about me: I like to game and play football
-- 🌐 Check out my online portfolio! https://www.maximvanlangendonck.be/
 
 ### Socials 🌐
 - LinkedIn [![LinkedIn][2.2]][2]
